@@ -93,3 +93,9 @@ Aplikasi berita sederhana dengan backend CodeIgniter 4 dan frontend Flutter.
 - `POST /api/berita`: Membuat berita baru
 - `PUT /api/berita/{id}`: Memperbarui berita
 - `DELETE /api/berita/{id}`: Menghapus berita
+
+
+
+![Image](https://github.com/user-attachments/assets/f8bbb976-2ba8-4060-9a26-a2ce9cca23a5)
+
+![Image](https://github.com/user-attachments/assets/cefd106e-4aa6-4fc1-bd6c-ca89ae2eab06)
